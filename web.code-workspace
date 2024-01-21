@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/web"
+		},
+		{
+			"path": "../Bookworm Zone-1.0.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bookworm Zone-1.0.0"
+	}
+}
